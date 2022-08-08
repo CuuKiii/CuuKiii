@@ -1,8 +1,8 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=cuukiii&repo=cuukiii&countColorcountColor)
 <div align="center">
   <a href="https://linktr.ee/cuukiii">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cuukiii&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuukiii&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=cuukiii&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuukiii&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="right" alt="Rafa-pic" height="220" style="border-radius:50px;" src="https://media.discordapp.net/attachments/810309354971594765/1006319271548305458/Screenshot_3.png?width=478&height=459">

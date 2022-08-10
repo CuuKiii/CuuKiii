@@ -20,7 +20,7 @@
   <a href = "mailto:leonardomm3@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
+  [![Spotify](https://spotify-now-playing-cw0r3husu-cuukiii.vercel.app/api/spotify-playing)](https://open.spotify.com/user/21hu7za5ntozvropbs3c23hpi)
 </div>
 
 

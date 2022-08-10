@@ -1,4 +1,10 @@
+<table width="100%"> 
+  <tr>
+  <td width="50%">
 
+&nbsp; <br> [![Spotify](https://spotify-now-playing-cuukiii.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/21hu7za5ntozvropbs3c23hpi)
+
+  </td>
 <div align="center">
   <a href="https://linktr.ee/cuukiii">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cuukiii&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
